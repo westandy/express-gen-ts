@@ -1,0 +1,1 @@
+export { ResourceDefinition } from './resourceDefinition';
